@@ -12,6 +12,7 @@ Automatically identifies urgent cases
 Connects volunteers and donors
 Tracks welfare cases efficiently
 Promotes education programs like MS-CIT and skill development
+
 🎯 Key Features
 🧑‍🤝‍🧑 Case Reporting
 Citizens can report elderly welfare cases
@@ -44,28 +45,29 @@ Enables students to enroll
 🔄 System Workflow
 Report Case → Store Data → Detect Urgency → Admin Dashboard → Assign Help → Resolve Case
 
+
 🌍 Impact
 Faster response to elderly needs
 Better case tracking and transparency
 Organized volunteer support
 Increased NGO visibility
 Promotes digital literacy and education
+
 🛠️ Tech Stack
 Frontend:
-
 React,vite
 Backend (extendable):
-
 Node.js
 Express.js
 Database (extendable):
-
 MongoDB
-👥 Team Members
+
+👥 Team Members:
 Muskan Rohra
 Heer Dewani
 Tanvi Kinger
 Meet Phulwani
+
 Institution:
 Vivekanand Education Society’s Institute of Technology (VESIT), Mumbai
 
